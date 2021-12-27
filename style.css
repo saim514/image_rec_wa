@@ -1,0 +1,28 @@
+body
+{
+color:aquamarine;
+background-color: darkcyan;
+}
+
+.heading
+{
+    width:80%;
+    font-size:22px;
+}
+
+.item
+{
+    color: aquamarine;
+}
+
+#webcam
+{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
+
+#result_picture_object,#result_picture_accuracy
+{
+    color: white;
+}
